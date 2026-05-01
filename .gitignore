@@ -1,2 +1,9 @@
 venv/
 *:Zone.Identifier
+
+cat >> .gitignore << 'EOF'
+.env
+__pycache__/
+*.pyc
+data/meetings/
+EOF
