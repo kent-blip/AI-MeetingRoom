@@ -28,7 +28,7 @@
 - インフラ：Railway
 
 ## システム構成
-（<img width="1082" height="510" alt="image" src="https://github.com/user-attachments/assets/7b6ff27f-b1d5-4d2c-9ffb-60ede8148359" />
+<img width="1082" height="510" alt="image" src="https://github.com/user-attachments/assets/7b6ff27f-b1d5-4d2c-9ffb-60ede8148359" />
 
 
 ## デモ
